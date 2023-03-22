@@ -1,0 +1,34 @@
+CLASSES
+
+1. Clientes
+    Attributes
+    - Cedula
+    - Nombres
+    - Apellidos
+    - Dirección
+    - Teléfono
+    Functions
+    - Edit each attribute
+    - Delete each attribute
+
+2. Mascotas
+    Attributes
+    - Identificación
+    - Nombre
+    - Raza
+    - Edad
+    - Peso
+    - Medicamento
+    - Cliente
+    Functions
+    - Edit each attribute
+    - Delete each attribute
+3. Medicamentos
+    Attributes
+    - Nombres
+    - Descripción
+    - Dosis
+    Functions
+    - Edit each attribute
+    - Delete each attribute
+4. 
